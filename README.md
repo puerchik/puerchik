@@ -7,7 +7,7 @@ My stack:
 - 🛠️ Vite, Webpack
 - 🖍 SCSS/Sass, styled-components, CSS Modules
 
-## 🌱 I’m currently learning
+Actively broadening my expertise in:
 
 - Advanced Redux concepts and patterns.
 - Performance optimization techniques for web applications.
