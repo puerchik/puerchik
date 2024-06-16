@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Nikolay Rumyantsev, a Frontend Developer currently exploring the world of web development. Specialized in creating interactive and responsive web applications using modern technologies.
+### Hi there 👋 I'm a Nikolay Rumyantsev, a Frontend Developer.
 
 My stack:
 
