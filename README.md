@@ -4,7 +4,7 @@ My stack:
 
 - 🚀 React, Redux Toolkit
 - 🌐 TypeScript, JavaScript
-- 🛠️ Vite, Webpack
+- 🛠️ Vite
 - 🖍 SCSS/Sass, CSS Modules
 
 ## 🌱 I’m currently learning
