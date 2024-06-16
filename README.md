@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm a Nikolay Rumyantsev, a passionate Frontend Developer currently exploring the world of web development. Specialized in creating interactive and responsive web applications using modern technologies.
 
-<!--
-**puerchik/puerchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My stack:
 
-Here are some ideas to get you started:
+- 🚀 React, Redux Toolkit
+- 🌐 TypeScript, JavaScript
+- 🛠️ Vite, Webpack
+- 🖍 SCSS/Sass, CSS Modules
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+
+- Advanced Redux concepts and patterns.
+- Performance optimization techniques for web applications.
+- Best practices in TypeScript for large-scale applications.
