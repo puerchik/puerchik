@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Nikolay Rumyantsev, a Frontend Developer.
+### Hi there 👋 I'm Nikolay Rumyantsev, a Frontend Developer.
 
 ### My stack:
 
